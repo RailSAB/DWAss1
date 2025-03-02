@@ -1,0 +1,2555 @@
+[
+    {
+        "title": "Avatar",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Avatar_(2009_film)",
+        "release_year": 2009,
+        "directors": [
+            "James Cameron"
+        ],
+        "box_office": "2.923 billion $",
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ],
+        "num_val_box_office": 2923000000.0,
+        "id": 1
+    },
+    {
+        "title": "Star Wars: The Last Jedi",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi",
+        "release_year": 2017,
+        "directors": [
+            "Rian Johnson"
+        ],
+        "box_office": "1.334 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1334000000.0,
+        "id": 2
+    },
+    {
+        "title": "Deadpool & Wolverine",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Deadpool_%26_Wolverine",
+        "release_year": 2024,
+        "directors": [
+            "Shawn Levy"
+        ],
+        "box_office": "1.338 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1338000000.0,
+        "id": 3
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows – Part 2",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2",
+        "release_year": 2011,
+        "directors": [
+            "David Yates"
+        ],
+        "box_office": "1.342 billion $",
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ],
+        "num_val_box_office": 1342000000.0,
+        "id": 4
+    },
+    {
+        "title": "Black Panther",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Black_Panther_(film)",
+        "release_year": 2018,
+        "directors": [
+            "Ryan Coogler"
+        ],
+        "box_office": "1.35 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1350000000.0,
+        "id": 5
+    },
+    {
+        "title": "The Fate of the Furious",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Fate_of_the_Furious",
+        "release_year": 2017,
+        "directors": [
+            "F. Gary Gray"
+        ],
+        "box_office": "1.236 billion $",
+        "countries": [
+            "United States",
+            "China"
+        ],
+        "num_val_box_office": 1236000000.0,
+        "id": 6
+    },
+    {
+        "title": "Incredibles 2",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Incredibles_2",
+        "release_year": 2018,
+        "directors": [
+            "Brad Bird"
+        ],
+        "box_office": "1.243 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1243000000.0,
+        "id": 7
+    },
+    {
+        "title": "Minions",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Minions_(film)",
+        "release_year": 2015,
+        "directors": [
+            "Pierre Coffin",
+            "Kyle Balda"
+        ],
+        "box_office": "1.159 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1159000000.0,
+        "id": 8
+    },
+    {
+        "title": "Jurassic World: Fallen Kingdom",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Jurassic_World:_Fallen_Kingdom",
+        "release_year": 2018,
+        "directors": [
+            "J. A. Bayona"
+        ],
+        "box_office": "1.31 billion $",
+        "countries": [
+            "China",
+            "United States"
+        ],
+        "num_val_box_office": 1310000000.0,
+        "id": 9
+    },
+    {
+        "title": "Iron Man 3",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Iron_Man_3",
+        "release_year": 2013,
+        "directors": [
+            "Shane Black"
+        ],
+        "box_office": "1.266 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1266000000.0,
+        "id": 10
+    },
+    {
+        "title": "Frozen",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Frozen_(2013_film)",
+        "release_year": 2013,
+        "directors": [
+            "Chris Buck",
+            "Jennifer Lee"
+        ],
+        "box_office": "1.280 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1280000000.0,
+        "id": 11
+    },
+    {
+        "title": "Beauty and the Beast",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Beauty_and_the_Beast_(2017_film)",
+        "release_year": 2017,
+        "directors": [
+            "Bill Condon"
+        ],
+        "box_office": "1.266 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1266000000.0,
+        "id": 12
+    },
+    {
+        "title": "The Super Mario Bros. Movie",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Super_Mario_Bros._Movie",
+        "release_year": 2023,
+        "directors": [
+            "Aaron Horvath",
+            "Michael Jelenic"
+        ],
+        "box_office": "1.360 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1360000000.0,
+        "id": 13
+    },
+    {
+        "title": "Harry Potter and the Goblet of Fire",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)",
+        "release_year": 2005,
+        "directors": [
+            "Mike Newell"
+        ],
+        "box_office": "897.5 million $",
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ],
+        "num_val_box_office": 897500000.0,
+        "id": 14
+    },
+    {
+        "title": "Pirates of the Caribbean: At World's End",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_At_World%27s_End",
+        "release_year": 2007,
+        "directors": [
+            "Gore Verbinski"
+        ],
+        "box_office": "963.4 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 963400000.0,
+        "id": 15
+    },
+    {
+        "title": "Avengers: Age of Ultron",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron",
+        "release_year": 2015,
+        "directors": [
+            "Joss Whedon"
+        ],
+        "box_office": "1.405 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1405000000.0,
+        "id": 16
+    },
+    {
+        "title": "Barbie",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Barbie_(film)",
+        "release_year": 2023,
+        "directors": [
+            "Greta Gerwig"
+        ],
+        "box_office": "1.446 billion $",
+        "countries": [
+            "United States",
+            "United Kingdom"
+        ],
+        "num_val_box_office": 1446000000.0,
+        "id": 17
+    },
+    {
+        "title": "The Dark Knight",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Dark_Knight",
+        "release_year": 2008,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "box_office": "1.006 billion $",
+        "countries": [
+            "United States",
+            "United Kingdom"
+        ],
+        "num_val_box_office": 1006000000.0,
+        "id": 18
+    },
+    {
+        "title": "Shrek 2",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Shrek_2",
+        "release_year": 2004,
+        "directors": [
+            "Andrew Adamson",
+            "Kelly Asbury",
+            "Conrad Vernon"
+        ],
+        "box_office": "935.5 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 935500000.0,
+        "id": 19
+    },
+    {
+        "title": "Armageddon",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Armageddon_(1998_film)",
+        "release_year": 1998,
+        "directors": [
+            "Michael Bay"
+        ],
+        "box_office": "553.7 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 553700000.0,
+        "id": 20
+    },
+    {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)",
+        "release_year": 2001,
+        "directors": [
+            "Chris Columbus"
+        ],
+        "box_office": "1.026 billion $",
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ],
+        "num_val_box_office": 1026000000.0,
+        "id": 21
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers",
+        "release_year": 2002,
+        "directors": [
+            "Peter Jackson"
+        ],
+        "box_office": "951.6 million $",
+        "countries": [
+            "New Zealand",
+            "United States"
+        ],
+        "num_val_box_office": 951600000.0,
+        "id": 22
+    },
+    {
+        "title": "Die Hard with a Vengeance",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Die_Hard_with_a_Vengeance",
+        "release_year": 1995,
+        "directors": [
+            "John McTiernan"
+        ],
+        "box_office": "366.1 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 366100000.0,
+        "id": 23
+    },
+    {
+        "title": "Mission: Impossible 2",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Mission:_Impossible_2",
+        "release_year": 2000,
+        "directors": [
+            "John Woo"
+        ],
+        "box_office": "546.3 million $",
+        "countries": [
+            "United States",
+            "Germany"
+        ],
+        "num_val_box_office": 546300000.0,
+        "id": 24
+    },
+    {
+        "title": "Independence Day",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Independence_Day_(1996_film)",
+        "release_year": 1996,
+        "directors": [
+            "Roland Emmerich"
+        ],
+        "box_office": "817.4 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 817400000.0,
+        "id": 25
+    },
+    {
+        "title": "Rain Man",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Rain_Man",
+        "release_year": 1988,
+        "directors": [
+            "Barry Levinson"
+        ],
+        "box_office": "354.8 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 354800000.0,
+        "id": 26
+    },
+    {
+        "title": "Ghost",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Ghost_(1990_film)",
+        "release_year": 1990,
+        "directors": [
+            "Jerry Zucker"
+        ],
+        "box_office": "505.7 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 505700000.0,
+        "id": 27
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade",
+        "release_year": 1989,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "box_office": "474.2 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 474200000.0,
+        "id": 28
+    },
+    {
+        "title": "Toy Story",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Toy_Story",
+        "release_year": 1995,
+        "directors": [
+            "John Lasseter"
+        ],
+        "box_office": "394.4 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 394400000.0,
+        "id": 29
+    },
+    {
+        "title": "Frozen 2",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Frozen_2",
+        "release_year": 2019,
+        "directors": [
+            "Chris Buck",
+            "Jennifer Lee"
+        ],
+        "box_office": "1.453 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1453000000.0,
+        "id": 30
+    },
+    {
+        "title": "Fatal Attraction",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Fatal_Attraction",
+        "release_year": 1987,
+        "directors": [
+            "Adrian Lyne"
+        ],
+        "box_office": "320.1 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 320100000.0,
+        "id": 31
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day",
+        "release_year": 1991,
+        "directors": [
+            "James Cameron"
+        ],
+        "box_office": "520.9 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 520900000.0,
+        "id": 32
+    },
+    {
+        "title": "Top Gun",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Top_Gun",
+        "release_year": 1986,
+        "directors": [
+            "Tony Scott"
+        ],
+        "box_office": "357.3 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 357300000.0,
+        "id": 33
+    },
+    {
+        "title": "Back to the Future",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Back_to_the_Future",
+        "release_year": 1985,
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "box_office": "388.8 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 388800000.0,
+        "id": 34
+    },
+    {
+        "title": "Rocky II",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Rocky_II",
+        "release_year": 1979,
+        "directors": [
+            "Sylvester Stallone"
+        ],
+        "box_office": "200.1 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 200100000.0,
+        "id": 35
+    },
+    {
+        "title": "Ghostbusters",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Ghostbusters",
+        "release_year": 1984,
+        "directors": [
+            "Ivan Reitman"
+        ],
+        "box_office": "370 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 370000000.0,
+        "id": 36
+    },
+    {
+        "title": "Return of the Jedi",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Return_of_the_Jedi",
+        "release_year": 1983,
+        "directors": [
+            "Richard Marquand"
+        ],
+        "box_office": "482 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 482000000.0,
+        "id": 37
+    },
+    {
+        "title": "Grease",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Grease_(film)",
+        "release_year": 1978,
+        "directors": [
+            "Randal Kleiser"
+        ],
+        "box_office": "396.3 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 396300000.0,
+        "id": 38
+    },
+    {
+        "title": "The Empire Strikes Back",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Empire_Strikes_Back",
+        "release_year": 1980,
+        "directors": [
+            "Irvin Kershner"
+        ],
+        "box_office": "549 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 549000000.0,
+        "id": 39
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark",
+        "release_year": 1981,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "box_office": "389.9 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 389900000.0,
+        "id": 40
+    },
+    {
+        "title": "The Towering Inferno",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Towering_Inferno",
+        "release_year": 1974,
+        "directors": [
+            "John Guillermin",
+            "Irwin Allen"
+        ],
+        "box_office": "203.3 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 203300000.0,
+        "id": 41
+    },
+    {
+        "title": "The Sting",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Sting",
+        "release_year": 1973,
+        "directors": [
+            "George Roy Hill"
+        ],
+        "box_office": "257 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 257000000.0,
+        "id": 42
+    },
+    {
+        "title": "Jaws",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Jaws_(film)",
+        "release_year": 1975,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "box_office": "476.5 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 476500000.0,
+        "id": 43
+    },
+    {
+        "title": "Rocky",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Rocky",
+        "release_year": 1976,
+        "directors": [
+            "John G. Avildsen"
+        ],
+        "box_office": "225 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 225000000.0,
+        "id": 44
+    },
+    {
+        "title": "Fiddler on the Roof",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Fiddler_on_the_Roof_(film)",
+        "release_year": 1971,
+        "directors": [
+            "Norman Jewison"
+        ],
+        "box_office": "83.3 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 83300000.0,
+        "id": 45
+    },
+    {
+        "title": "The French Connection",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_French_Connection_(film)",
+        "release_year": 1971,
+        "directors": [
+            "William Friedkin"
+        ],
+        "box_office": "75 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 75000000.0,
+        "id": 46
+    },
+    {
+        "title": "The Exorcist",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Exorcist",
+        "release_year": 1973,
+        "directors": [
+            "William Friedkin"
+        ],
+        "box_office": "441.3 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 441300000.0,
+        "id": 47
+    },
+    {
+        "title": "The Godfather",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Godfather",
+        "release_year": 1972,
+        "directors": [
+            "Francis Ford Coppola"
+        ],
+        "box_office": "291 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 291000000.0,
+        "id": 48
+    },
+    {
+        "title": "Love Story",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Love_Story_(1970_film)",
+        "release_year": 1970,
+        "directors": [
+            "Arthur Hiller"
+        ],
+        "box_office": "173.4 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 173400000.0,
+        "id": 49
+    },
+    {
+        "title": "Funny Girl",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Funny_Girl_(film)",
+        "release_year": 1968,
+        "directors": [
+            "William Wyler"
+        ],
+        "box_office": "58.5 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 58500000.0,
+        "id": 50
+    },
+    {
+        "title": "Butch Cassidy and the Sundance Kid",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Butch_Cassidy_and_the_Sundance_Kid",
+        "release_year": 1969,
+        "directors": [
+            "George Roy Hill"
+        ],
+        "box_office": "102.3 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 102300000.0,
+        "id": 51
+    },
+    {
+        "title": "The Graduate",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Graduate",
+        "release_year": 1967,
+        "directors": [
+            "Mike Nichols"
+        ],
+        "box_office": "104.9 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 104900000.0,
+        "id": 52
+    },
+    {
+        "title": "The Jungle Book",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Jungle_Book_(1967_film)",
+        "release_year": 1967,
+        "directors": [
+            "Wolfgang Reitherman"
+        ],
+        "box_office": "378 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 378000000.0,
+        "id": 53
+    },
+    {
+        "title": "Who's Afraid of Virginia Woolf?",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Who%27s_Afraid_of_Virginia_Woolf%3F_(film)",
+        "release_year": 1966,
+        "directors": [
+            "Mike Nichols"
+        ],
+        "box_office": "33.7 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 33700000.0,
+        "id": 54
+    },
+    {
+        "title": "Hawaii",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Hawaii_(1966_film)",
+        "release_year": 1966,
+        "directors": [
+            "George Roy Hill"
+        ],
+        "box_office": "34.5 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 34500000.0,
+        "id": 55
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/2001:_A_Space_Odyssey",
+        "release_year": 1968,
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "box_office": "146 million $",
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ],
+        "num_val_box_office": 146000000.0,
+        "id": 56
+    },
+    {
+        "title": "Mary Poppins",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Mary_Poppins_(film)",
+        "release_year": 1964,
+        "directors": [
+            "Robert Stevenson"
+        ],
+        "box_office": "103.1 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 103100000.0,
+        "id": 57
+    },
+    {
+        "title": "How the West Was Won",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/How_the_West_Was_Won_(film)",
+        "release_year": 1962,
+        "directors": [
+            "Henry Hathaway",
+            "John Ford",
+            "George Marshall"
+        ],
+        "box_office": "50 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 50000000.0,
+        "id": 58
+    },
+    {
+        "title": "The Longest Day",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Longest_Day_(film)",
+        "release_year": 1962,
+        "directors": [
+            "Ken Annakin",
+            "Andrew Marton",
+            "Bernhard Wicki"
+        ],
+        "box_office": "50.1 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 50100000.0,
+        "id": 59
+    },
+    {
+        "title": "My Fair Lady",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+        "release_year": 1964,
+        "directors": [
+            "George Cukor"
+        ],
+        "box_office": "72.7 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 72700000.0,
+        "id": 60
+    },
+    {
+        "title": "Demon Slayer: Mugen Train",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Demon_Slayer:_Mugen_Train",
+        "release_year": 2020,
+        "directors": [
+            "Haruo Sotozaki"
+        ],
+        "box_office": "507.1 million $",
+        "countries": [
+            "Japan"
+        ],
+        "num_val_box_office": 507100000.0,
+        "id": 61
+    },
+    {
+        "title": "One Hundred and One Dalmatians",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians",
+        "release_year": 1961,
+        "directors": [
+            "Wolfgang Reitherman",
+            "Hamilton Luske",
+            "Clyde Geronimi"
+        ],
+        "box_office": "303 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 303000000.0,
+        "id": 62
+    },
+    {
+        "title": "Psycho",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Psycho_(1960_film)",
+        "release_year": 1960,
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "box_office": "50 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 50000000.0,
+        "id": 63
+    },
+    {
+        "title": "West Side Story",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/West_Side_Story_(1961_film)",
+        "release_year": 1961,
+        "directors": [
+            "Robert Wise",
+            "Jerome Robbins"
+        ],
+        "box_office": "44.1 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 44100000.0,
+        "id": 64
+    },
+    {
+        "title": "South Pacific",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/South_Pacific_(1958_film)",
+        "release_year": 1958,
+        "directors": [
+            "Joshua Logan"
+        ],
+        "box_office": "17.5 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 17500000.0,
+        "id": 65
+    },
+    {
+        "title": "Swiss Family Robinson",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Swiss_Family_Robinson_(1960_film)",
+        "release_year": 1960,
+        "directors": [
+            "Ken Annakin"
+        ],
+        "box_office": "40 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 40000000.0,
+        "id": 66
+    },
+    {
+        "title": "Mister Roberts",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Mister_Roberts_(1955_film)",
+        "release_year": 1955,
+        "directors": [
+            "John Ford",
+            "Mervyn LeRoy",
+            "Joshua Logan"
+        ],
+        "box_office": "21.2 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 21200000.0,
+        "id": 67
+    },
+    {
+        "title": "Spartacus",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Spartacus_(film)",
+        "release_year": 1960,
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "box_office": "60 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 60000000.0,
+        "id": 68
+    },
+    {
+        "title": "The Robe",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Robe_(film)",
+        "release_year": 1953,
+        "directors": [
+            "Henry Koster"
+        ],
+        "box_office": "36 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 36000000.0,
+        "id": 69
+    },
+    {
+        "title": "Cinerama Holiday",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Cinerama_Holiday",
+        "release_year": 1955,
+        "directors": [
+            "Robert L. Bendick",
+            "Philippe De Lacy"
+        ],
+        "box_office": "29.6 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 29600000.0,
+        "id": 70
+    },
+    {
+        "title": "20,000 Leagues Under the Sea",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/20,000_Leagues_Under_the_Sea_(1954_film)",
+        "release_year": 1954,
+        "directors": [
+            "Richard Fleischer"
+        ],
+        "box_office": "28.2 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 28200000.0,
+        "id": 71
+    },
+    {
+        "title": "White Christmas",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/White_Christmas_(film)",
+        "release_year": 1954,
+        "directors": [
+            "Michael Curtiz"
+        ],
+        "box_office": "30 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 30000000.0,
+        "id": 72
+    },
+    {
+        "title": "Rear Window",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Rear_Window",
+        "release_year": 1954,
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "box_office": "37 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 37000000.0,
+        "id": 73
+    },
+    {
+        "title": "The Greatest Show on Earth",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Greatest_Show_on_Earth_(film)",
+        "release_year": 1952,
+        "directors": [
+            "Cecil B. DeMille"
+        ],
+        "box_office": "36 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 36000000.0,
+        "id": 74
+    },
+    {
+        "title": "Peter Pan",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Peter_Pan_(1953_film)",
+        "release_year": 1953,
+        "directors": [
+            "Hamilton Luske",
+            "Clyde Geronimi",
+            "Wilfred Jackson"
+        ],
+        "box_office": "87.4 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 87400000.0,
+        "id": 75
+    },
+    {
+        "title": "Lady and the Tramp",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Lady_and_the_Tramp",
+        "release_year": 1955,
+        "directors": [
+            "Hamilton Luske",
+            "Clyde Geronimi",
+            "Wilfred Jackson"
+        ],
+        "box_office": "187 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 187000000.0,
+        "id": 76
+    },
+    {
+        "title": "This Is Cinerama",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/This_Is_Cinerama",
+        "release_year": 1952,
+        "directors": [
+            "Mike Todd",
+            "Michael Todd, Jr."
+        ],
+        "box_office": "41.6 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 41600000.0,
+        "id": 77
+    },
+    {
+        "title": "Quo Vadis",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Quo_Vadis_(1951_film)",
+        "release_year": 1951,
+        "directors": [
+            "Mervyn LeRoy"
+        ],
+        "box_office": "21 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 21000000.0,
+        "id": 78
+    },
+    {
+        "title": "King Solomon's Mines",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/King_Solomon%27s_Mines_(1950_film)",
+        "release_year": 1950,
+        "directors": [
+            "Compton Bennett",
+            "Andrew Marton"
+        ],
+        "box_office": "15.1 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 15100000.0,
+        "id": 79
+    },
+    {
+        "title": "Samson and Delilah",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Samson_and_Delilah_(1949_film)",
+        "release_year": 1949,
+        "directors": [
+            "Cecil B. DeMille"
+        ],
+        "box_office": "25.6 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 25600000.0,
+        "id": 80
+    },
+    {
+        "title": "The Snake Pit",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Snake_Pit",
+        "release_year": 1948,
+        "directors": [
+            "Anatole Litvak"
+        ],
+        "box_office": "10 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 10000000.0,
+        "id": 81
+    },
+    {
+        "title": "Cinderella",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Cinderella_(1950_film)",
+        "release_year": 1950,
+        "directors": [
+            "Wilfred Jackson",
+            "Hamilton Luske",
+            "Clyde Geronimi"
+        ],
+        "box_office": "182 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 182000000.0,
+        "id": 82
+    },
+    {
+        "title": "Unconquered",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Unconquered_(1947_film)",
+        "release_year": 1947,
+        "directors": [
+            "Cecil B. DeMille"
+        ],
+        "box_office": "6.665592 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 6665592.0,
+        "id": 83
+    },
+    {
+        "title": "Forever Amber",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Forever_Amber_(film)",
+        "release_year": 1947,
+        "directors": [
+            "Otto Preminger",
+            "John M. Stahl"
+        ],
+        "box_office": "5 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 5000000.0,
+        "id": 84
+    },
+    {
+        "title": "Easter Parade",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Easter_Parade_(film)",
+        "release_year": 1948,
+        "directors": [
+            "Charles Walters"
+        ],
+        "box_office": "6.8 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 6800000.0,
+        "id": 85
+    },
+    {
+        "title": "The Red Shoes",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Red_Shoes_(1948_film)",
+        "release_year": 1948,
+        "directors": [
+            "Michael Powell",
+            "Emeric Pressburger"
+        ],
+        "box_office": "5 million $",
+        "countries": [
+            "United Kingdom"
+        ],
+        "num_val_box_office": 5000000.0,
+        "id": 86
+    },
+    {
+        "title": "Duel in the Sun",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Duel_in_the_Sun_(film)",
+        "release_year": 1946,
+        "directors": [
+            "King Vidor"
+        ],
+        "box_office": "20.4 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 20400000.0,
+        "id": 87
+    },
+    {
+        "title": "The Best Years of Our Lives",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Best_Years_of_Our_Lives",
+        "release_year": 1946,
+        "directors": [
+            "William Wyler"
+        ],
+        "box_office": "23.7 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 23700000.0,
+        "id": 88
+    },
+    {
+        "title": "Song of the South",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Song_of_the_South",
+        "release_year": 1946,
+        "directors": [
+            "Wilfred Jackson"
+        ],
+        "box_office": "65 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 65000000.0,
+        "id": 89
+    },
+    {
+        "title": "Mom and Dad",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Mom_and_Dad_(1945_film)",
+        "release_year": 1945,
+        "directors": [
+            "William Beaudine"
+        ],
+        "box_office": "100 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 100000000.0,
+        "id": 90
+    },
+    {
+        "title": "Going My Way",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Going_My_Way",
+        "release_year": 1944,
+        "directors": [
+            "Leo McCarey"
+        ],
+        "box_office": "6.5 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 6500000.0,
+        "id": 91
+    },
+    {
+        "title": "This Is the Army",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/This_Is_the_Army",
+        "release_year": 1943,
+        "directors": [
+            "Michael Curtiz",
+            "1"
+        ],
+        "box_office": "10.445 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 10445000.0,
+        "id": 92
+    },
+    {
+        "title": "For Whom the Bell Tolls",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls_(film)",
+        "release_year": 1943,
+        "directors": [
+            "Sam Wood"
+        ],
+        "box_office": "17.8 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 17800000.0,
+        "id": 93
+    },
+    {
+        "title": "Mrs. Miniver",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Mrs._Miniver",
+        "release_year": 1942,
+        "directors": [
+            "William Wyler"
+        ],
+        "box_office": "8.9 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 8900000.0,
+        "id": 94
+    },
+    {
+        "title": "The Bells of St. Mary's",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Bells_of_St._Mary%27s",
+        "release_year": 1945,
+        "directors": [
+            "Leo McCarey"
+        ],
+        "box_office": "21.3 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 21300000.0,
+        "id": 95
+    },
+    {
+        "title": "Bambi",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Bambi",
+        "release_year": 1942,
+        "directors": [
+            "David D. Hand",
+            "James Algar"
+        ],
+        "box_office": "267.4 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 267399999.99999997,
+        "id": 96
+    },
+    {
+        "title": "You Can't Take It with You",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/You_Can%27t_Take_It_with_You_(film)",
+        "release_year": 1938,
+        "directors": [
+            "Frank Capra"
+        ],
+        "box_office": "2.137575 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 2137575.0,
+        "id": 97
+    },
+    {
+        "title": "Boom Town",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Boom_Town_(film)",
+        "release_year": 1940,
+        "directors": [
+            "Jack Conway"
+        ],
+        "box_office": "5 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 5000000.0,
+        "id": 98
+    },
+    {
+        "title": "San Francisco",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/San_Francisco_(1936_film)",
+        "release_year": 1936,
+        "directors": [
+            "W. S. Van Dyke"
+        ],
+        "box_office": "5.3 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 5300000.0,
+        "id": 99
+    },
+    {
+        "title": "Mutiny on the Bounty",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Mutiny_on_the_Bounty_(1935_film)",
+        "release_year": 1935,
+        "directors": [
+            "Frank Lloyd"
+        ],
+        "box_office": "4.46 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 4460000.0,
+        "id": 100
+    },
+    {
+        "title": "Sergeant York",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Sergeant_York_(film)",
+        "release_year": 1941,
+        "directors": [
+            "Howard Hawks"
+        ],
+        "box_office": "8.3 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 8300000.000000001,
+        "id": 101
+    },
+    {
+        "title": "Pinocchio",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Pinocchio_(1940_film)",
+        "release_year": 1940,
+        "directors": [
+            "Ben Sharpsteen",
+            "Hamilton Luske",
+            "Norman Ferguson",
+            "Jack Kinney",
+            "Wilfred Jackson",
+            "T. Hee"
+        ],
+        "box_office": "164 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 164000000.0,
+        "id": 102
+    },
+    {
+        "title": "Snow White and the Seven Dwarfs",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)",
+        "release_year": 1937,
+        "directors": [
+            "David Hand",
+            "Perce Pearce",
+            "Larry Morey",
+            "Wilfred Jackson",
+            "Ben Sharpsteen"
+        ],
+        "box_office": "418 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 418000000.0,
+        "id": 103
+    },
+    {
+        "title": "The Merry Widow",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Merry_Widow_(1934_film)",
+        "release_year": 1934,
+        "directors": [
+            "Ernst Lubitsch"
+        ],
+        "box_office": "2.8 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 2800000.0,
+        "id": 104
+    },
+    {
+        "title": "She Done Him Wrong",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/She_Done_Him_Wrong",
+        "release_year": 1933,
+        "directors": [
+            "Lowell Sherman"
+        ],
+        "box_office": "2.2 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 2200000.0,
+        "id": 105
+    },
+    {
+        "title": "Cavalcade",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Cavalcade_(1933_film)",
+        "release_year": 1933,
+        "directors": [
+            "Frank Lloyd"
+        ],
+        "box_office": "1.004 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1004000.0,
+        "id": 106
+    },
+    {
+        "title": "It Happened One Night",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/It_Happened_One_Night",
+        "release_year": 1934,
+        "directors": [
+            "Frank Capra"
+        ],
+        "box_office": "2.5 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 2500000.0,
+        "id": 107
+    },
+    {
+        "title": "I'm No Angel",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/I%27m_No_Angel",
+        "release_year": 1933,
+        "directors": [
+            "Wesley Ruggles"
+        ],
+        "box_office": "2.25 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 2250000.0,
+        "id": 108
+    },
+    {
+        "title": "Frankenstein",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Frankenstein_(1931_film)",
+        "release_year": 1931,
+        "directors": [
+            "James Whale"
+        ],
+        "box_office": "12 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 12000000.0,
+        "id": 109
+    },
+    {
+        "title": "The Sign of the Cross",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Sign_of_the_Cross_(1932_film)",
+        "release_year": 1932,
+        "directors": [
+            "Cecil B. DeMille"
+        ],
+        "box_office": "2.738993 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 2738993.0,
+        "id": 110
+    },
+    {
+        "title": "All Quiet on the Western Front",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front_(1930_film)",
+        "release_year": 1930,
+        "directors": [
+            "Lewis Milestone"
+        ],
+        "box_office": "3 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 3000000.0,
+        "id": 111
+    },
+    {
+        "title": "The Broadway Melody",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Broadway_Melody",
+        "release_year": 1929,
+        "directors": [
+            "Harry Beaumont"
+        ],
+        "box_office": "4.4 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 4400000.0,
+        "id": 112
+    },
+    {
+        "title": "City Lights",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/City_Lights",
+        "release_year": 1931,
+        "directors": [
+            "Charlie Chaplin"
+        ],
+        "box_office": "4.25 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 4250000.0,
+        "id": 113
+    },
+    {
+        "title": "Sunny Side Up",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Sunny_Side_Up_(1929_film)",
+        "release_year": 1929,
+        "directors": [
+            "David Butler"
+        ],
+        "box_office": "2.19 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 2190000.0,
+        "id": 114
+    },
+    {
+        "title": "The Singing Fool",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Singing_Fool",
+        "release_year": 1928,
+        "directors": [
+            "Lloyd Bacon"
+        ],
+        "box_office": "5.916 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 5916000.0,
+        "id": 115
+    },
+    {
+        "title": "King Kong",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/King_Kong_(1933_film)",
+        "release_year": 1933,
+        "directors": [
+            "Merian C. Cooper",
+            "Ernest B. Schoedsack"
+        ],
+        "box_office": "5.3 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 5300000.0,
+        "id": 116
+    },
+    {
+        "title": "For Heaven's Sake",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/For_Heaven%27s_Sake_(1926_film)",
+        "release_year": 1926,
+        "directors": [
+            "Sam Taylor"
+        ],
+        "box_office": "2.6 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 2600000.0,
+        "id": 117
+    },
+    {
+        "title": "The Big Parade",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Big_Parade",
+        "release_year": 1925,
+        "directors": [
+            "King Vidor"
+        ],
+        "box_office": "22 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 22000000.0,
+        "id": 118
+    },
+    {
+        "title": "The Sea Hawk",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Sea_Hawk_(1924_film)",
+        "release_year": 1924,
+        "directors": [
+            "Frank Lloyd"
+        ],
+        "box_office": "2 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 2000000.0,
+        "id": 119
+    },
+    {
+        "title": "Douglas Fairbanks in Robin Hood",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Douglas_Fairbanks_in_Robin_Hood",
+        "release_year": 1922,
+        "directors": [
+            "Allan Dwan"
+        ],
+        "box_office": "2.5 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 2500000.0,
+        "id": 120
+    },
+    {
+        "title": "The Covered Wagon",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Covered_Wagon",
+        "release_year": 1923,
+        "directors": [
+            "James Cruze"
+        ],
+        "box_office": "4 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 4000000.0,
+        "id": 121
+    },
+    {
+        "title": "The Four Horsemen of the Apocalypse",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Four_Horsemen_of_the_Apocalypse_(film)",
+        "release_year": 1921,
+        "directors": [
+            "Rex Ingram"
+        ],
+        "box_office": "9.2 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 9200000.0,
+        "id": 122
+    },
+    {
+        "title": "Wings",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Wings_(1927_film)",
+        "release_year": 1927,
+        "directors": [
+            "William A. Wellman"
+        ],
+        "box_office": "3.8 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 3800000.0,
+        "id": 123
+    },
+    {
+        "title": "Mickey",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Mickey_(1918_film)",
+        "release_year": 1918,
+        "directors": [
+            "F. Richard Jones",
+            "James Young"
+        ],
+        "box_office": "16.45 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 16450000.0,
+        "id": 124
+    },
+    {
+        "title": "Way Down East",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Way_Down_East",
+        "release_year": 1920,
+        "directors": [
+            "D. W. Griffith"
+        ],
+        "box_office": "7.5 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 7500000.0,
+        "id": 125
+    },
+    {
+        "title": "Intolerance",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Intolerance_(film)",
+        "release_year": 1916,
+        "directors": [
+            "D. W. Griffith"
+        ],
+        "box_office": "1.75 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1750000.0,
+        "id": 126
+    },
+    {
+        "title": "The Miracle Man",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Miracle_Man_(1919_film)",
+        "release_year": 1919,
+        "directors": [
+            "George Loane Tucker"
+        ],
+        "box_office": "1 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1000000.0,
+        "id": 127
+    },
+    {
+        "title": "Cleopatra",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Cleopatra_(1917_film)",
+        "release_year": 1917,
+        "directors": [
+            "J. Gordon Edwards"
+        ],
+        "box_office": "1 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1000000.0,
+        "id": 128
+    },
+    {
+        "title": "The Birth of a Nation",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Birth_of_a_Nation",
+        "release_year": 1915,
+        "directors": [
+            "D. W. Griffith"
+        ],
+        "box_office": "100 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 100000000.0,
+        "id": 129
+    },
+    {
+        "title": "Doctor Zhivago",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Doctor_Zhivago_(film)",
+        "release_year": 1965,
+        "directors": [
+            "David Lean"
+        ],
+        "box_office": "111.7 million $",
+        "countries": [
+            "United Kingdom",
+            "Italy",
+            "United States"
+        ],
+        "num_val_box_office": 111700000.0,
+        "id": 130
+    },
+    {
+        "title": "The Ten Commandments",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Ten_Commandments_(1956_film)",
+        "release_year": 1956,
+        "directors": [
+            "Cecil B. DeMille"
+        ],
+        "box_office": "122.7 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 122700000.0,
+        "id": 131
+    },
+    {
+        "title": "E.T. the Extra-Terrestrial",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial",
+        "release_year": 1982,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "box_office": "797.3 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 797300000.0,
+        "id": 132
+    },
+    {
+        "title": "The Sound of Music",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Sound_of_Music_(film)",
+        "release_year": 1965,
+        "directors": [
+            "Robert Wise"
+        ],
+        "box_office": "286.2 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 286200000.0,
+        "id": 133
+    },
+    {
+        "title": "Despicable Me 3",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Despicable_Me_3",
+        "release_year": 2017,
+        "directors": [
+            "Pierre Coffin",
+            "Kyle Balda"
+        ],
+        "box_office": "1.035 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1034999999.9999999,
+        "id": 134
+    },
+    {
+        "title": "Gone with the Wind",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)",
+        "release_year": 1939,
+        "directors": [
+            "Victor Fleming"
+        ],
+        "box_office": "390 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 390000000.0,
+        "id": 135
+    },
+    {
+        "title": "Star Wars",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Star_Wars_(film)",
+        "release_year": 1977,
+        "directors": [
+            "George Lucas"
+        ],
+        "box_office": "775.4 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 775400000.0,
+        "id": 136
+    },
+    {
+        "title": "Pirates of the Caribbean: On Stranger Tides",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides",
+        "release_year": 2011,
+        "directors": [
+            "Rob Marshall"
+        ],
+        "box_office": "1.046 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1046000000.0,
+        "id": 137
+    },
+    {
+        "title": "Jurassic Park",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Jurassic_Park_(film)",
+        "release_year": 1993,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "box_office": "1.058 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1058000000.0,
+        "id": 138
+    },
+    {
+        "title": "Moana 2",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Moana_2",
+        "release_year": 2024,
+        "directors": [
+            "David Derrick Jr.",
+            "1",
+            "1",
+            "1"
+        ],
+        "box_office": "1.05 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1050000000.0,
+        "id": 139
+    },
+    {
+        "title": "Star Wars: Episode I – The Phantom Menace",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace",
+        "release_year": 1999,
+        "directors": [
+            "George Lucas"
+        ],
+        "box_office": "1.047 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1046999999.9999999,
+        "id": 140
+    },
+    {
+        "title": "Aladdin",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Aladdin_(2019_film)",
+        "release_year": 2019,
+        "directors": [
+            "Guy Ritchie"
+        ],
+        "box_office": "1.054 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1054000000.0,
+        "id": 141
+    },
+    {
+        "title": "Ben-Hur",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Ben-Hur_(1925_film)",
+        "release_year": 1925,
+        "directors": [
+            "Fred Niblo",
+            "Charles Brabin"
+        ],
+        "box_office": "10.7 million $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 10700000.0,
+        "id": 142
+    },
+    {
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest",
+        "release_year": 2006,
+        "directors": [
+            "Gore Verbinski"
+        ],
+        "box_office": "1.066 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1066000000.0,
+        "id": 143
+    },
+    {
+        "title": "Rogue One: A Star Wars Story",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Rogue_One:_A_Star_Wars_Story",
+        "release_year": 2016,
+        "directors": [
+            "Gareth Edwards"
+        ],
+        "box_office": "1.059 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1059000000.0,
+        "id": 144
+    },
+    {
+        "title": "Toy Story 3",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Toy_Story_3",
+        "release_year": 2010,
+        "directors": [
+            "Lee Unkrich"
+        ],
+        "box_office": "1.067 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1067000000.0,
+        "id": 145
+    },
+    {
+        "title": "Toy Story 4",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Toy_Story_4",
+        "release_year": 2019,
+        "directors": [
+            "Josh Cooley"
+        ],
+        "box_office": "1.074 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1074000000.0,
+        "id": 146
+    },
+    {
+        "title": "Star Wars: The Rise of Skywalker",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Star_Wars:_The_Rise_of_Skywalker",
+        "release_year": 2019,
+        "directors": [
+            "J. J. Abrams"
+        ],
+        "box_office": "1.077 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1077000000.0,
+        "id": 147
+    },
+    {
+        "title": "Transformers: Age of Extinction",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Transformers:_Age_of_Extinction",
+        "release_year": 2014,
+        "directors": [
+            "Michael Bay"
+        ],
+        "box_office": "1.104 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1104000000.0,
+        "id": 148
+    },
+    {
+        "title": "Skyfall",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Skyfall",
+        "release_year": 2012,
+        "directors": [
+            "Sam Mendes"
+        ],
+        "box_office": "1.109 billion $",
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ],
+        "num_val_box_office": 1109000000.0,
+        "id": 149
+    },
+    {
+        "title": "Transformers: Dark of the Moon",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon",
+        "release_year": 2011,
+        "directors": [
+            "Michael Bay"
+        ],
+        "box_office": "1.124 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1124000000.0,
+        "id": 150
+    },
+    {
+        "title": "Spider-Man: Far From Home",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home",
+        "release_year": 2019,
+        "directors": [
+            "Jon Watts"
+        ],
+        "box_office": "1.133 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1133000000.0,
+        "id": 151
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Dark_Knight_Rises",
+        "release_year": 2012,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "box_office": "1.115 billion $",
+        "countries": [
+            "United States",
+            "United Kingdom"
+        ],
+        "num_val_box_office": 1115000000.0,
+        "id": 152
+    },
+    {
+        "title": "Joker",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Joker_(2019_film)",
+        "release_year": 2019,
+        "directors": [
+            "Todd Phillips"
+        ],
+        "box_office": "1.079 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1079000000.0,
+        "id": 153
+    },
+    {
+        "title": "Captain Marvel",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Captain_Marvel_(film)",
+        "release_year": 2019,
+        "directors": [
+            "Anna Boden",
+            "Ryan Fleck"
+        ],
+        "box_office": "1.131 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1131000000.0,
+        "id": 154
+    },
+    {
+        "title": "Aquaman",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Aquaman_(film)",
+        "release_year": 2018,
+        "directors": [
+            "James Wan"
+        ],
+        "box_office": "1.152 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1152000000.0,
+        "id": 155
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Top_Gun:_Maverick",
+        "release_year": 2022,
+        "directors": [
+            "Joseph Kosinski"
+        ],
+        "box_office": "1.496 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1496000000.0,
+        "id": 156
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King",
+        "release_year": 2003,
+        "directors": [
+            "Peter Jackson"
+        ],
+        "box_office": "1.151 billion $",
+        "countries": [
+            "New Zealand",
+            "Germany",
+            "United States"
+        ],
+        "num_val_box_office": 1151000000.0,
+        "id": 157
+    },
+    {
+        "title": "The Lion King",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Lion_King_(2019_film)",
+        "release_year": 2019,
+        "directors": [
+            "Jon Favreau"
+        ],
+        "box_office": "1.657 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1657000000.0,
+        "id": 158
+    },
+    {
+        "title": "Jurassic World",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Jurassic_World",
+        "release_year": 2015,
+        "directors": [
+            "Colin Trevorrow"
+        ],
+        "box_office": "1.671 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1671000000.0,
+        "id": 159
+    },
+    {
+        "title": "The Avengers",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Avengers_(2012_film)",
+        "release_year": 2012,
+        "directors": [
+            "Joss Whedon"
+        ],
+        "box_office": "1.521 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1521000000.0,
+        "id": 160
+    },
+    {
+        "title": "Ne Zha 2",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Ne_Zha_2",
+        "release_year": 2025,
+        "directors": [
+            "Jiaozi"
+        ],
+        "box_office": "1.87 billion $",
+        "countries": [
+            "China"
+        ],
+        "num_val_box_office": 1870000000.0,
+        "id": 161
+    },
+    {
+        "title": "Inside Out 2",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Inside_Out_2",
+        "release_year": 2024,
+        "directors": [
+            "Kelsey Mann"
+        ],
+        "box_office": "1.699 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1699000000.0,
+        "id": 162
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home",
+        "release_year": 2021,
+        "directors": [
+            "Jon Watts"
+        ],
+        "box_office": "1.953 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1953000000.0,
+        "id": 163
+    },
+    {
+        "title": "Star Wars: The Force Awakens",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens",
+        "release_year": 2015,
+        "directors": [
+            "J. J. Abrams"
+        ],
+        "box_office": "2.07 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 2069999999.9999998,
+        "id": 164
+    },
+    {
+        "title": "Titanic",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Titanic_(1997_film)",
+        "release_year": 1997,
+        "directors": [
+            "James Cameron"
+        ],
+        "box_office": "2.264 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 2264000000.0,
+        "id": 165
+    },
+    {
+        "title": "Avatar: The Way of Water",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water",
+        "release_year": 2022,
+        "directors": [
+            "James Cameron"
+        ],
+        "box_office": "2.320 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 2320000000.0,
+        "id": 166
+    },
+    {
+        "title": "Moonraker",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Moonraker_(film)",
+        "release_year": 1979,
+        "directors": [
+            "Lewis Gilbert"
+        ],
+        "box_office": "210.3 million $",
+        "countries": [
+            "United Kingdom",
+            "United States",
+            "France"
+        ],
+        "num_val_box_office": 210300000.0,
+        "id": 167
+    },
+    {
+        "title": "Diamonds Are Forever",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Diamonds_Are_Forever_(film)",
+        "release_year": 1971,
+        "directors": [
+            "Guy Hamilton"
+        ],
+        "box_office": "116 million $",
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ],
+        "num_val_box_office": 116000000.0,
+        "id": 168
+    },
+    {
+        "title": "The Bible: In the Beginning",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Bible:_In_the_Beginning",
+        "release_year": 1966,
+        "directors": [
+            "John Huston"
+        ],
+        "box_office": "34.9 million $",
+        "countries": [
+            "Italy",
+            "United States"
+        ],
+        "num_val_box_office": 34900000.0,
+        "id": 169
+    },
+    {
+        "title": "From Russia with Love",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/From_Russia_with_Love_(film)",
+        "release_year": 1963,
+        "directors": [
+            "Terence Young"
+        ],
+        "box_office": "79 million $",
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ],
+        "num_val_box_office": 79000000.0,
+        "id": 170
+    },
+    {
+        "title": "Goldfinger",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Goldfinger_(film)",
+        "release_year": 1964,
+        "directors": [
+            "Guy Hamilton"
+        ],
+        "box_office": "125 million $",
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ],
+        "num_val_box_office": 125000000.0,
+        "id": 171
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)",
+        "release_year": 1962,
+        "directors": [
+            "David Lean"
+        ],
+        "box_office": "70 million $",
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ],
+        "num_val_box_office": 70000000.0,
+        "id": 172
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/The_Bridge_on_the_River_Kwai",
+        "release_year": 1957,
+        "directors": [
+            "David Lean"
+        ],
+        "box_office": "30.6 million $",
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ],
+        "num_val_box_office": 30600000.0,
+        "id": 173
+    },
+    {
+        "title": "Captain America: Civil War",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Captain_America:_Civil_War",
+        "release_year": 2016,
+        "directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "box_office": "1.155 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 1155000000.0,
+        "id": 174
+    },
+    {
+        "title": "Furious 7",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Furious_7",
+        "release_year": 2015,
+        "directors": [
+            "James Wan"
+        ],
+        "box_office": "1.515 billion $",
+        "countries": [
+            "United States",
+            "China"
+        ],
+        "num_val_box_office": 1515000000.0,
+        "id": 175
+    },
+    {
+        "title": "Avengers: Endgame",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Avengers:_Endgame",
+        "release_year": 2019,
+        "directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "box_office": "2.799 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 2799000000.0,
+        "id": 176
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "link": "https://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.orghttps://en.wikipedia.org/wiki/Avengers:_Infinity_War",
+        "release_year": 2018,
+        "directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "box_office": "2.052 billion $",
+        "countries": [
+            "United States"
+        ],
+        "num_val_box_office": 2052000000.0,
+        "id": 177
+    }
+]

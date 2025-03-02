@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+#filters {
+    margin: 20px 0;
+    text-align: center;
+}
+
+#filters label {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+#filters select {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+#filters button {
+    margin: 5px;
+    padding: 10px 15px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#filters button:hover {
+    background-color: #555;
+}
+
+
+#film-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    background-color: #164216;
+}
+
+.film-card {
+    background-color: #ffffff;
+    border: 20px solid #723509f6;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.film-card h2 {
+    margin-top: 0;
+}
+
+.film-card p {
+    margin: 5px 0;
+}

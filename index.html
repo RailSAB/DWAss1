@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Film Information</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Film Information</h1>
+        <div id="filters">
+            <label for="sort">Sort By:</label>
+            <select id="sort">
+                <option value="title">Title</option>
+                <option value="release_year_asc">Release Year (Ascending)</option>
+                <option value="release_year_desc">Release Year (Descending)</option>
+                <option value="box_office_asc">Box Office (Ascending)</option>
+                <option value="box_office_desc">Box Office (Descending)</option>
+            </select>
+            <label for="directors">Filter by Director:</label>
+            <select id="directors" multiple></select>
+            <label for="countries">Filter by Country:</label>
+            <select id="countries" multiple></select>
+            <button id="apply-filters">Apply Filters</button>
+        </div>
+    </header>
+    <main>
+        <div id="film-container"></div>
+    </main>
+    <script src="script.js?v=1.0"></script>
+</body>
+</html>
